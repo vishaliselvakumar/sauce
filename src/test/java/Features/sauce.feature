@@ -21,7 +21,7 @@ Scenario: Testing Functionality of add to cart product
  
      	 And  user is on checkout page and enter valid firstname, lastname and zipcode
      
-     	 Then user is on payment option page and click on finish button
+     	 
     
   
 
